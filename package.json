@@ -46,8 +46,9 @@
   "dependencies": {
     "babel-runtime": "^6.11.6",
     "bootstrap": "^3.3",
+    "chai": "^3.5.0",
     "jquery": "^1.12.4",
-    "sinon-chai": "latest",
-    "sinon": "latest"
+    "sinon": "latest",
+    "sinon-chai": "^2.8.0"
   }
 }
