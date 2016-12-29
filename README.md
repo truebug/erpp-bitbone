@@ -1,2 +1,2 @@
 # erpp-bitbone
-for erpp project: bone frame work of bit
+for erpp project: bone/basic framework of bit
